@@ -41,4 +41,6 @@ echo "Patchfont to be use as global"
 
 sudo mv  ~/.fonts /usr/share/fonts
 
+#configuration terminator themes 
 
+cp templates/config  ~/.config/terminator/config
